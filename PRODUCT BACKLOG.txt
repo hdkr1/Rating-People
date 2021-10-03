@@ -1,0 +1,22 @@
+DEFINICIÓN DEL PRODUCT BACKLOG
+
+HU01 - Requerimientos de la Plataforma:
+- Cómo: Usuario Administrador del Sistema.
+  
+- Quiero: Aumentar la calidad de asignación de los contratos.
+  
+- Para: Almacenar a nivel regional y nacional todas las empresas asociadas a la agencia del país y poder filtrar cuales de estas requieren de personal con definición de cargo, funciones y requisitos para optar.
+  
+- Condiciones:
+  - HU01 - Requerimientos de la Plataforma:
+Cómo: Usuario Administrador del Sistema.
+Quiero: Aumentar la calidad de asignación de los contratos.
+Para: Almacenar a nivel regional y nacional todas las empresas asociadas a la agencia del país y poder filtrar cuales de estas requieren de personal con definición de cargo, funciones y requisitos para optar.
+Condiciones:
+  - El sistema debe buscar automáticamente los mejores trabajadores que puedan cumplir con el cargo.
+  - Dichas búsquedas se deben basar en un procedimiento de calificación, en el que los trabajadores y ex trabajadores de una empresa son calificados en una escala del 1 al 10 de acuerdo a las aptitudes que creen que presentaron al trabajar, al mismo tiempo con comentarios indicando el valor social del trabajador.
+  - Dichas empresas deben estar en constante contacto con la agencia para notificar el movimiento del personal.
+  - Las empresas asociadas deben tener la posibilidad de actualizar sus bases de datos para empezar el proceso de búsqueda de personal y contratación.
+  - Todos aquellos trabajadores que no se encuentren registrados al sistema pueden solicitar a la agencia la creación de un perfil nuevo para entrar al programa de calificación de acuerdo a su hoja de vida, previamente verificada.
+
+-- Dashboard_Trello: https://trello.com/b/Q7Rnyto4/plataforma-de-rating-de-personas --
